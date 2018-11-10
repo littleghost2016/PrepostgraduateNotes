@@ -1,4 +1,4 @@
-## 小作文
+### 小作文
 
 > Painstaking but rewarding. 艰苦卓绝但富有成效。
 
@@ -349,9 +349,9 @@
    	In the end, the work is worthy of our attention in more ways than one. It casts light on the solution of the present issues and the future study of them.
    				Yours sincerely,
    					Li Ming
-  ```
+   ```
 
-## 大作文
+### 大作文
 
 1. 如图所示
 
@@ -400,6 +400,12 @@
 
          *A boy, with his father watching TV, is studying helplessly. On the other hand, another father and his son are studying together.* || *A father sitting in front of the TV idly(悠闲的), is asking his son to study hard. On the contrary, another father and his son are studying together.*
 
+         *two tourises faced with 美景, are littering rubbish into the rival.*
+
+         *There ara a wild range of <u>rubbish / garbage</u> ont the lake of a place of interest, including fruit peel(果皮), one-time-off tablewares(一次性餐具), leftover(剩菜剩饭)*
+
+         *a woman, with her daughter;s hand in hers, raised the latter thirty years ago. Likewise, ...*
+
    - 无人的——there be (1) sth + 介词短语/修饰
 
      - 1
@@ -423,17 +429,107 @@
 5. 第二段第一句
    1. The phenomenon is thought-provoking in more ways than one, among which the following three are of special significance.
    2. 分论点一
-      - First and foremonst, that some people are <u>keenly(敏锐地) / not completely</u> aware of the significance（意义） / virtue（优点） / harm（带来的伤害） / whole pirture（全貌） of 主题 is the psychological basis that contributes to the phenomenon. After all, it is human nature to <u>persue self-actualization（自我价值的实现） and public recofnition（公众的认可） through their conducts</u>（正面的） / <u>focus only the present interest (convenience / condition)</u>（负面的） / <u>shirk all labor and duty if they can</u>（负面的）.
+      - First and foremonst, that some people are <u>keenly(敏锐地) / not completely</u> aware of the significance（意义） / virtue（优点） / harm（带来的伤害） / whole pirture（全貌） of 主题 is the psychological basis that contributes to the phenomenon. After all, it is human nature to <u>persue self-actualization（自我价值的实现） and public recofnition（公众的认可） through their conducts</u>（正面的） / <u>focus only the present interest (convenience / condition)</u>（负面的） / <u>shirk(逃避) all labor and duty if they can</u>（负面的）.
    3. 分论点二
-      - In the light of this, nmerous individuals, especially the ones from humble backgrounds, become typical beneficiaries victims in that
-        - they are bound to succeed academically / economically more easily with 主题
-        - their health / well-being / living condition can be improved / at risk with the advent / absence of 主题
+      - In the light of this(因此), numerous individuals, especially the ones from humble backgrounds, become typical beneficiaries / victims(受益者/受害者) in that
+        - they are bound to succeed <u>academically / economically</u>(学习上/经济上) more easily with 主题
+        - their <u>health / well-being(幸福) / living condition</u> can be <u>improved / at risk</u> with the <u>advent(出现) / absence(缺失)</u> of 主题
         - they are (not) able to enjoy the best that the world can offer because of 主题
    4. 分论点三
-      - We have every reason to say that 主题 boasts irreplaceable value / poses irretrievable harm to the development and harmony of the nation / the education of the next generation / environment and ecological balance / cultural diversity and prosperity, so it is no wonder universally acknowledged as a gem / poison / epidemic of modern sociery.
+      - We have every reason to say that 主题 <u>boasts irreplaceable value / poses irretrievable(无法逆转的) harm to the development and harmony of the nation / the education of the next generation / environment and ecological balance(环境与生态平衡) / cultural diversity and prosperity(文化的多元与繁荣)</u>, so it is no wonder universally(=unanimously一致) acknowledged as a <u>gem(珠玉) / poison / epidemic(流行病)</u> of modern sociery.
 6. 第二段末句
 
    1. That’s why we cannot afford to omit this phenomenon.
+   2. sb. make sense in saying that ...
 7. 第三段
 
-   1. From the previous discussion we can safely come to the conclusion that 主题 is a blessing / curse in more ways than one. It is high time we cultivated a better awareness of it and channeled actions int the light of concrete circumstances. Bearing the previous points in mind, we can embrace a brighter future,
+   1. From the previous discussion we can safely(万无一失的) come to the conclusion that 主题 is a <u>blessing(福) / curse(祸)</u> in more ways than one. It is high time(是时候做某事了) we cultivated(培养) a better awareness of it and channeled(引导) actions in the light of concrete circumstances(实事求是地展开行动). Bearing the previous points in mind(牢记于心), we can embrace a brighter future(营造一个光辉的未来),
+
+#### 图表作文
+
+1. 
+
+   - 图标可总称为 graph
+   - 结构
+     1. 引入：描述——（破题）
+     2. 主体：主题——三条——结论
+     3. 同漫画
+   - 常用词
+     - 增加：increase, go up, incline(缓慢增加), 暴增：rocket, soar, explode
+     - 减少：decrease, go down, decline, 暴跌：plunge, dwindle, shrink, sink
+     - 不变：remain stable, level out(或off), remain unchanged, remain fixed
+     - 波动：fluctuate, there were ipps and downs
+     - 转向：the trend reversed
+     - 变速：speed up, slow down; acceletare, decelerate
+     - 变化程度：
+       - 大：dramatically
+       - 中：considerably
+       - 小：marginally
+
+2. 柱状图与曲线
+
+   1. 常用表达
+      - 可能描述的是变化和对比
+      - bar chart 柱状图
+      - curve 曲线图
+
+   2. 模板
+
+      - ​	As is illustrated(=demonstrated) in the graph, A 变量 （1）
+
+        - 1：过去式
+
+          - 增加: (过去式) from 数值1 to 数值2 <u>during the span of xx years / from 1998 to 2008</u>.
+          - 减少: (过去式) 同上
+          - 不变: stayed at 数值. Then the trend reversed / it picked up speed, finishing at 数值 at 时间.
+
+        - 例
+
+          > As is graphically illustrated in the bar chart ,  domestic cars increased from 25% to about 30%. On the controry, Japanese cars has dwindled from 35% to 25% in Chinese market. What’s more, the American brand remained stable at 15%.
+
+          > As is graphically illustrated in the bar chart, the percentage of democratic cars in China’s automobile market increased considerably from 25% to 35 around(=some=appoximately=roughly) 33% during the twelve months from 2008 to 2009. On the contrary, the proportion of Japanese brands dropped from 35% to 25%. During the same time, the percentage of American cars remained stable at approximately 15%.
+
+          > As is pespicuously demonstrated in the bar chart senior students with part-time jobs accounted for 88.24% of the forth grade, which is the highest proportion of all groups. It is followed by that of juniors at 71.93%, and sophomores, 71.33%. Within expectation, the lowest proportion occurred in freshman at 67.77%.
+
+3. 饼状图与表格
+   1. 常用表达
+      - 描述的比例
+      - pie chart 饼状图
+      - table 表格
+
+   2. 模板
+
+      - ​	As is illustrated in the graph, A变量 accounted(=demonstrated) for the highest proportion of 图标主题 at x%, followed by B变量 at y%, and C, z%.
+
+      - 例
+
+        > As ... , enjoying scenery accounted for the highest proportion of purpose for traveling of students in a university.
+
+        > As is perspicuously demonstrated in the pie chart, enjoying beautiful scenery accounted for(=make up=constitude) the highest proportion at 37% of all the students’ purpose for traveling in one university, followed by relieving pressure at 33%. Besides, making friends constituted 15%, and cultivatingindependent ability, 9%.
+
+4. 第一段第二句(破题)
+
+   - Actually / undoubtedly, the chart depicts a prevalent phenomenon / heated topic, namely(即), 主题.
+
+5. 第二段第一句(主题句)
+
+   - Several factors, to my way of thinking, can be easily found to account for the phenomenon among which I would like to name three most significant ones as follows.
+
+6. 分论点
+
+   1. At the first place, there is no denying that the erer-accelerating pace of our life and the improvement of our living standards have come to characterize(塑造) one's <u>working / living / learning</u> habit, which in turn led to the <u>marked  change of(重大的变化) / diversified stance(不同的立场)</u> on 主题.
+   2. Moreover, that numermous individuals have been blessed with(很多人被保佑拥有) <u>concrete / academic / physical</u> benefits from 主题 also conduced to(导致) the <u>trend / situation</u>. 
+   3. Still, what cannot be neglected is that the <u>government incentives(政府的推动作用) / pressure from all sides(来自各方面的压力) / eagerness to try new things(想尝试新事物的渴望)</u> served as a momentous driving force(作为一个重大的推动力) of it.
+
+7. 第二段末句
+
+   - As it is a miniature(缩影) of life in this day and age, we can by no means afford to omit it.
+
+8. 第三段第一句
+
+   - From the previous discussin we can safely come to the conclusion that (<u>current trend / the multiple choices / diverse considerations</u>)  of 主题 will continue to influence all aspects of our life / study / work in the long run,
+
+9. 第三段第二句
+
+   - It is high time we clutivated a better awareness of it and channeled actions in the light of concrete facts.
+   - Bearing the previous points in my mind, we can enjoy our life happily and meaningfully / come to the best decisions within no time.
