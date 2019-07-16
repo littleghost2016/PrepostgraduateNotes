@@ -429,7 +429,7 @@
 5. 第二段第一句
    1. The phenomenon is thought-provoking in more ways than one, among which the following three are of special significance.
    2. 分论点一
-      - First and foremonst, that some people are <u>keenly(敏锐地) / not completely</u> aware of the significance（意义） / virtue（优点） / harm（带来的伤害） / whole pirture（全貌） of 主题 is the psychological basis that contributes to the phenomenon. After all, it is human nature to <u>persue self-actualization（自我价值的实现） and public recofnition（公众的认可） through their conducts</u>（正面的） / <u>focus only the present interest (convenience / condition)</u>（负面的） / <u>shirk(逃避) all labor and duty if they can</u>（负面的）.
+      - First and foremonst, that some people are <u>keenly(敏锐地) / not completely</u> aware of the significance（意义） / virtue（优点） / harm（带来的伤害） / whole pirture（全貌） of 主题 is the psychological basis that contributes to the phenomenon. After all, it is human nature to <u>persue self-actualization（自我价值的实现） and public recognition（公众的认可） through their conducts</u>（正面的） / <u>focus only the present interest (convenience / condition)</u>（负面的） / <u>shirk(逃避) all labor and duty if they can</u>（负面的）.
    3. 分论点二
       - In the light of this(因此), numerous individuals, especially the ones from humble backgrounds, become typical beneficiaries / victims(受益者/受害者) in that
         - they are bound to succeed <u>academically / economically</u>(学习上/经济上) more easily with 主题
